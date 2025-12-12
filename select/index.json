@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "オオゴト",
+  "base_artist": "春猿火",
+  "createdAt": "2025-12-12T13:44:50.154279Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オオゴト",
+      "artist": "春猿火",
+      "has_synced": true,
+      "path": "select/01_オオゴト_春猿火.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オオゴト",
+      "artist": "春猿火",
+      "has_synced": false,
+      "path": "select/pl_01_オオゴト_春猿火.txt"
+    }
+  ]
+}
